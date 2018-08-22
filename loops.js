@@ -22,5 +22,7 @@ function incrementVariable() {
 }
 
 function doWhileLoop(array) {
-  
+  do {
+    
+  }
 }
