@@ -21,6 +21,9 @@ function incrementVariable() {
   i = i + 1;
 }
 
+function maybeTrue() {
+  return Math.random() >= 0.5;
+
 function doWhileLoop(array) {
   do {
     
